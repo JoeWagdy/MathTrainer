@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Math Trainer</string>
+    <string name="easy">Easy   ^_^</string>
+    <string name="medium">Medium   -_^</string>
+    <string name="hard">Hard   -_-</string>
+    <string name="high_score">High Score</string>
+    <string name="no_high_score">no High Score yet.\nTab To take the chance</string>
+    <string name="timerTitle">Timer</string>
+    <string name="scoreTitle">Score</string>
+    <string name="zeroScore">0 / 0</string>
+    <string name="correct">Correct !</string>
+    <string name="wrong">Wrong !!</string>
+    <string name="play_again">☻ play again ☻</string>
+    <string name="question">Question</string>
+    <string name="start">♥  Start  ♥</string>
+    <string name="stop">█  STOP  █</string>
+</resources>

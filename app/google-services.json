@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1005090309934",
+    "firebase_url": "https://math-trainer-b77b1.firebaseio.com",
+    "project_id": "math-trainer-b77b1",
+    "storage_bucket": "math-trainer-b77b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005090309934:android:a007610f9456879a3a1cbf",
+        "android_client_info": {
+          "package_name": "com.joewagdy.mathtrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005090309934-o0qoun1pgo8rhe4iep9j2m0m9fid6efp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkaIJj18cnjsm15qTTWDwVGfWv7mjs8pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005090309934-o0qoun1pgo8rhe4iep9j2m0m9fid6efp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

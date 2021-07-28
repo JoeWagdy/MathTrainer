@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="easy_high_score_default_key">0</integer>
+    <integer name="med_high_score_default_key">0</integer>
+    <integer name="hard_high_score_default_key">0</integer>
+    <integer name="easy_high_score_time_default_key">0</integer>
+    <integer name="med_high_score_time_default_key">0</integer>
+    <integer name="hard_high_score_time_default_key">0</integer>
+    <integer name="easy_high_score_ques_default_key">0</integer>
+    <integer name="med_high_score_ques_default_key">0</integer>
+    <integer name="hard_high_score_ques_default_key">0</integer>
+</resources>
